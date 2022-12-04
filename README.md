@@ -4,8 +4,10 @@
 - 📫 How to reach me https://www.linkedin.com/in/ahmed-abdelhamed-nassef-535839207/
 
 💎 Fav Quotes:
+
 "Think twice, code once".
 "Life is about Solving Problems".
+
 👨🏻‍💻 Language and tools:
 C++, PHP & Laravel, GIT
 <!---
