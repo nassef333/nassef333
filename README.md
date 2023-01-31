@@ -27,8 +27,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`
-- 💎 Fav Quotes:<br>
-`Think twice, code once`. `Life is about Solving Problems`.
+- 💎 Fav Quotes: `Think twice, code once`. `Life is about Solving Problems`.
 
 <br><br>
 
