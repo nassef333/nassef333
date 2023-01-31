@@ -15,9 +15,9 @@
 
 I'm a software engineer who is interesting in problem solving and web development . 
 
-## <picture><img src = "https://github.com/nassef333/nassef333/blob/main/about_me.gif" width = 50px></picture> About me
+## <picture><img src = "https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/about_me.gif?alt=media&token=6461e44b-6d0a-442a-98c7-64f204d965e4" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/nassef333/nassef333/blob/main/giphy%20(1).gif" width = 250px></picture>
+<picture> <img align="right" src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/giphy%20(1).gif?alt=media&token=f0128c3b-d616-49ec-aae4-d692374c902d" width = 250px></picture>
 
 <br><br>
 
@@ -27,6 +27,10 @@ I'm a software engineer who is interesting in problem solving and web developmen
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`
+- :school: 💎 Fav Quotes:
+"Think twice, code once".
+"Life is about Solving Problems".
+
 <br><br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving Profiles
@@ -38,7 +42,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
  <a href="https://codeforces.com/profile/NI.GO"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 </p>
 
-## <picture> <img src="https://github.com/nassef333/nassef333/blob/main/Connect-with-me.gif" width="100px"> </picture> Contact with me
+## <picture> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/Connect-with-me.gif?alt=media&token=970c137c-ed55-4339-b288-d09f4d3f5b8a" width="100px"> </picture> Contact with me
 <p align="center">
 &emsp;
 <a href="mailto:ahmednassef8111@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -68,6 +72,10 @@ I'm a software engineer who is interesting in problem solving and web developmen
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  &emsp; 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ &emsp;  
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Postman" width="40" height="40"/> </a> 
+ &emsp; 
+<a href="https://console.firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"alt="FireBase" width="40" height="40"/> </a> 
  &emsp; 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  &emsp; 
