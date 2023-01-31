@@ -73,7 +73,7 @@ I'm a software engineer who is interesting in problem solving and web developmen
  &emsp; 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  &emsp;  
- <a href="https://www.laravel.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png " alt="Laravel" width="40" height="40"/> </a> 
+ <a href="https://www.laravel.net" target="_blank" rel="noreferrer"> <img src="https://firebasestorage.googleapis.com/v0/b/e-book-8aec8.appspot.com/o/1200px-Laravel.svg.png?alt=media&token=84f98e2d-577d-496d-a8c3-f09e29f72e8e" alt="Laravel" width="40" height="40"/> </a> 
  &emsp; 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  &emsp; 
